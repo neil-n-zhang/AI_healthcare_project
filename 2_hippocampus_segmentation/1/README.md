@@ -1,0 +1,1 @@
+# Preparing the dataset for hippocampus segmentation
